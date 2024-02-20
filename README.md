@@ -4,9 +4,15 @@
 - ꩜ ${I\ look\ forward\ to\ {\color{lightpink} working}}$ ${{\color{lightpink} in}}$ ${{\color{lightpink} between}}$ ${{\color{lightpink} english}}$ ${{\color{lightpink} and}}$ ${{\color{lightpink} tech}}$
 - ♀️ ${Pronouns\ {\color{lightpink} she/her}}$
 - ⪩ ⪨ ${Fun\ fact\ I\ have\ a\ cat\ named\ {\color{lightpink} kilby}}$ ${{\color{lightpink} girl}}$ ${{\color{lightpink} -}}$ ${{\color{lightpink} named}}$ ${{\color{lightpink} after}}$ ${{\color{lightpink} a}}$ ${{\color{lightpink} backseat}}$ ${{\color{lightpink} lovers}}$ ${{\color{lightpink} song}}$
+ 
+ <img src="https://github.com/arieslex/arieslex/assets/160432570/2d658de7-718c-4523-aa00-4df3d4232a2f" width=10% height=10%> 
+ <img src="https://github.com/arieslex/arieslex/assets/160432570/42afdbb5-6861-4446-84cf-80f4478c5092" width=10% height=10%>
+
 
 ${{\color{#C595FA} ˚❀　.　˚　　✦　　✿　.　˚　. 　 ˚　✿.　˚　　❀
 .　˚✦　.  ✿ 　　˚　　 ❀　　*　˚　 　❀　✦　˚ .}}$
+
+
 
 
 <!---
